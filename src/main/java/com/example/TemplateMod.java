@@ -1,5 +1,6 @@
 package com.example;
 
+import com.example.item.ModItemGroups;
 import com.example.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -21,6 +22,7 @@ public class TemplateMod implements ModInitializer {
 
 		LOGGER.info("wsp bitch");
 
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 	}
 }

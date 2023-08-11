@@ -12,10 +12,12 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 
-    public static final Item PLATINUM = registerItem("platinum_ingot", new Item(new FabricItemSettings()));
+    public static final Item PLATINUM_INGOT = registerItem("platinum_ingot", new Item(new FabricItemSettings()));
+    public static final Item RAW_PLATINUM = registerItem("raw_platinum", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
-        entries.add(PLATINUM);
+        entries.add(PLATINUM_INGOT);
+        entries.add(RAW_PLATINUM);
     }
 
     private static Item registerItem(String name, Item item) {
