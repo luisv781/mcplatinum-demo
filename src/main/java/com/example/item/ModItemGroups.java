@@ -1,6 +1,7 @@
 package com.example.item;
 
 import com.example.TemplateMod;
+import com.example.block.ModBlocks;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
@@ -17,6 +18,9 @@ public class ModItemGroups {
                     .icon(() -> new ItemStack(ModItems.PLATINUM_INGOT)).entries((displayContext, entries) -> {
                         entries.add(ModItems.PLATINUM_INGOT);
                         entries.add(ModItems.RAW_PLATINUM);
+
+                        entries.add(ModBlocks.PLATINUM_BLOCK);
+                        entries.add(ModBlocks.RAW_PLATINUM_BLOCK);
                     }).build());
 
     public static void registerItemGroups() {

@@ -2,5 +2,8 @@
   "item.template-mod.platinum_ingot": "Platinum Ingot",
   "item.template-mod.raw_platinum": "Raw Platinum",
 
+  "block.template-mod.platinum_block": "Block of Platinum",
+  "block.template-mod.raw_platinum_block": "Block of Raw Platinum",
+
   "itemgroup.platinum": "Platinum Mod"
 }
