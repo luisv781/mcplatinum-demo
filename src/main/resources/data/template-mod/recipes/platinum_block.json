@@ -8,10 +8,10 @@
   ],
   "key": {
     "#": {
-      "item": "template_mod:platinum_ingot"
+      "item": "template-mod:platinum_ingot"
     }
   },
   "result": {
-    "item": "template_mod:platinum_block"
+    "item": "template-mod:platinum_block"
   }
 }
