@@ -2,14 +2,14 @@
 	"schemaVersion": 1,
 	"id": "template-mod",
 	"version": "${version}",
-	"name": "Template Mod",
+	"name": "Platinum Mod",
 	"description": "template mod template mod template mod template mod template mod bich",
 	"authors": [
 		"idk"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/luisv781/mcplatinum-demo"
 	},
 	"license": "MIT",
 	"icon": "assets/template-mod/icon.png",
