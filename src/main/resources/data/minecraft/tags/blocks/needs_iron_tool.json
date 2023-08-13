@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-
+    "template-mod:platinum_ore",
+    "template-mod:deepslate_platinum_ore"
   ]
 }

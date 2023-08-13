@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "template-mod:platinum_block",
-    "template-mod:raw_platinum_block"
+    "template-mod:raw_platinum_block",
+    "template-mod:platinum_ore",
+    "template-mod:deepslate_platinum_ore"
   ]
 }

@@ -4,6 +4,8 @@
 
   "block.template-mod.platinum_block": "Block of Platinum",
   "block.template-mod.raw_platinum_block": "Block of Raw Platinum",
+  "block.template-mod.platinum_ore": "Platinum Ore",
+  "block.template-mod.deepslate_platinum_ore": "Deepslate Platinum Ore",
 
   "itemgroup.platinum": "Platinum Mod"
 }

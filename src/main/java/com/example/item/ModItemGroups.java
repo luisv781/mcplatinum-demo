@@ -21,6 +21,8 @@ public class ModItemGroups {
 
                         entries.add(ModBlocks.PLATINUM_BLOCK);
                         entries.add(ModBlocks.RAW_PLATINUM_BLOCK);
+                        entries.add(ModBlocks.PLATINUM_ORE);
+                        entries.add(ModBlocks.DEEPSLATE_PLATINUM_ORE);
                     }).build());
 
     public static void registerItemGroups() {
