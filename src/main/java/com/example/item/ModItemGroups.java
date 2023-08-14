@@ -23,6 +23,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RAW_PLATINUM_BLOCK);
                         entries.add(ModBlocks.PLATINUM_ORE);
                         entries.add(ModBlocks.DEEPSLATE_PLATINUM_ORE);
+
+                        entries.add(ModItems.METAL_DETECTOR);
                     }).build());
 
     public static void registerItemGroups() {
